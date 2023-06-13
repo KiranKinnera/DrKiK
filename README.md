@@ -4,30 +4,11 @@
 <h2>Kiran Kinnera</h2>
 
 <p> FIETE , SMIEEE.</p>
-<style>
-.all-browsers {
-  margin: 0;
-  padding: 5px;
-  background-color: lightgray;
-}
 
-.all-browsers > h1, .browser {
-  margin: 10px;
-  padding: 5px;
-}
 
-.browser {
-  background: white;
-}
-
-.browser > h2, p {
-  margin: 4px;
-  font-size: 90%;
-}
-</style>
-</head>
-<body>
-
+<a href="default.asp">
+<img src="https://lh5.googleusercontent.com/I1r1PmIRmAcsRY_bkSOsz8YwLUOmXAj3l-D2I6WopzZ5Da9GlLSRnWtF98Wd6pygzRiuN4Pu5TbwSEhonyXN4KpuVrx7TlJMJcj_XL5OrOKyyj7_L3kUXGo87uSinAeXzQ=w1280" alt="" style="width:320px;height:320px;">
+</a>
 <article class="all-browsers">
   <h1>Most Popular Browsers</h1>
   <article class="browser">
@@ -44,10 +25,6 @@
   </article>
 </article>
 
-
-<a href="default.asp">
-<img src="https://lh5.googleusercontent.com/I1r1PmIRmAcsRY_bkSOsz8YwLUOmXAj3l-D2I6WopzZ5Da9GlLSRnWtF98Wd6pygzRiuN4Pu5TbwSEhonyXN4KpuVrx7TlJMJcj_XL5OrOKyyj7_L3kUXGo87uSinAeXzQ=w1280" alt="" style="width:320px;height:320px;">
-</a>
 
 <p>
 Mr. Kinnera Kiran is a Fellow of IETE ( The Institution of Electronics & Telecommunication Engineers ) India , Senior Member IEEE ( USA) and  ,  currently working as Senior Technical Officer (2) in the Division of Process Engineering & Technology Transfer (PETT) at CSIR-Indian Institute of Chemical Technology, Hyderabad, India. 
