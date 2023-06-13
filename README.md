@@ -1,9 +1,7 @@
 
 <html>
 <body>
-<h2>Kiran Kinnera</h2>
-
-<p> FIETE , SMIEEE.</p>
+<h1>Kiran Kinnera</h1>
 
 
 <a href="default.asp">
@@ -11,7 +9,7 @@
 </a>
   
 <article class="all-browsers">
-  <h1> About Me </h1>
+  <h2> About Me </h2>
   <p>
 Mr. Kinnera Kiran is a Fellow of IETE ( The Institution of Electronics & Telecommunication Engineers ) India , Senior Member IEEE ( USA) and  ,  currently working as Senior Technical Officer (2) in the Division of Process Engineering & Technology Transfer (PETT) at CSIR-Indian Institute of Chemical Technology, Hyderabad, India. 
 
@@ -56,11 +54,6 @@ Senior Technical Assistant : CSIR-Indian Institute of Chemical Technology, Hyder
 </p>
 
 <p>
-Ph.D.  Engineering Sciences - Pursuing from Academy of Scientific & Innovative Research, ACSIR.    
-M.E (Systems & Signal Processing – Electronics & Communication Engineering), University college of Engineering, Osmania University, Hyderabad.  
-B. Tech (Electronics & Instrumentation Engineering), Kakatiya Institute of Technology & Science, kakatiya University, Warangal .
-  
-  Employment :
 
 Key Note Talks :
 
