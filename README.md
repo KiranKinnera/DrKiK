@@ -2,6 +2,13 @@
 
 <html>
 <body>
+<h2>Image as a Link</h2>
+
+<p>The image is a link. You can click on it.</p>
+
+<a href="default.asp">
+<img src="https://lh5.googleusercontent.com/I1r1PmIRmAcsRY_bkSOsz8YwLUOmXAj3l-D2I6WopzZ5Da9GlLSRnWtF98Wd6pygzRiuN4Pu5TbwSEhonyXN4KpuVrx7TlJMJcj_XL5OrOKyyj7_L3kUXGo87uSinAeXzQ=w1280" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
 
 <p>
 Mr. Kinnera Kiran is a Fellow of IETE ( The Institution of Electronics & Telecommunication Engineers ) India , Senior Member IEEE ( USA) and  ,  currently working as Senior Technical Officer (2) in the Division of Process Engineering & Technology Transfer (PETT) at CSIR-Indian Institute of Chemical Technology, Hyderabad, India. 
