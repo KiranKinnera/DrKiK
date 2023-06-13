@@ -1,5 +1,4 @@
 # DrKiK
-# DrKiK.github.io
 <!DOCTYPE html>
 <html>
 <body>
