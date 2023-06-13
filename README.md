@@ -6,7 +6,7 @@
 <p> FIETE , SMIEEE.</p>
 
 <a href="default.asp">
-<img src="https://lh5.googleusercontent.com/I1r1PmIRmAcsRY_bkSOsz8YwLUOmXAj3l-D2I6WopzZ5Da9GlLSRnWtF98Wd6pygzRiuN4Pu5TbwSEhonyXN4KpuVrx7TlJMJcj_XL5OrOKyyj7_L3kUXGo87uSinAeXzQ=w1280" alt="HTML tutorial" style="width:320px;height:320px;">
+<img src="https://lh5.googleusercontent.com/I1r1PmIRmAcsRY_bkSOsz8YwLUOmXAj3l-D2I6WopzZ5Da9GlLSRnWtF98Wd6pygzRiuN4Pu5TbwSEhonyXN4KpuVrx7TlJMJcj_XL5OrOKyyj7_L3kUXGo87uSinAeXzQ=w1280" alt="" style="width:320px;height:320px;">
 </a>
 
 <p>
